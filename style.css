@@ -1,0 +1,43 @@
+
+#map
+{
+width: 1500px;
+height: 650px;
+margin: auto;
+/*margin: auto;*/
+}
+
+h1
+{
+	color : red;
+	text-align: center;
+}
+
+
+u
+{
+color: red;
+}
+
+h2
+{
+	color : purple;
+}
+
+img:hover
+{
+opacity:0.5;
+}
+
+footer:hover
+{
+text-decoration: underline;
+background-color: pink;	
+}
+
+p, footer 
+
+{
+padding: 10px;
+margin: 30px;	
+}
